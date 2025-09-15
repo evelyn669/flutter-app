@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Create New Schedule",
+    "description": "Create a new schedule for upcoming week",
+    "image": "images/calendar.png",
+    "status": "",
+    "category": "Scheduling",
+    "displayType": "tab",
+    "controlId": 7,
+    "subItems": [
+      {
+        "type": "sample",
+        "title": "Resource View",
+        "status": "New",
+        "key": "shift_scheduler",
+        "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/calendar/shift_scheduler/shift_scheduler.dart"
+      },
+      { 
+        "type": "sample", 
+        "title": "Monthly Schedule",
+        "key": "appointment_editor_manager",
+        "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/calendar/appointment_editor/appointment_editor.dart"
+      }
+    ]
+  },
+  {
+    "title": "View Posted Schedules",
+    "description": "Allows you to easily visualize employee schedules",
+    "image": "images/calendar.png",
+    "status": "",
+    "category": "Scheduling",
+    "displayType": "tab",
+    "controlId": 7,
+    "subItems": [
+      {
+        "type": "sample",
+        "title": "Monthly Schedule",
+        "key": "appointment_editor_employee",
+        "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/calendar/appointment_editor/appointment_editor.dart"
+      },
+      {
+        "type": "sample",
+        "title": "Weekly Shift Schedule",
+        "key": "special_regions_calendar",
+        "codeLink": "https://github.com/syncfusion/flutter-examples/tree/master/lib/samples/calendar/special_regions/special_regions.dart"
+      }
+    ]
+  }
+]

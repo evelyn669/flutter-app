@@ -1,0 +1,14 @@
+// This is a generated file; do not edit or check into version control.
+FLUTTER_ROOT=/Users/creature/Library/flutter
+FLUTTER_APPLICATION_PATH=/Users/creature/Library/apps/app4
+FLUTTER_TARGET=/Users/creature/Library/apps/app4/lib/main.dart
+FLUTTER_BUILD_DIR=build
+SYMROOT=${SOURCE_ROOT}/../build/ios
+OTHER_LDFLAGS=$(inherited) -framework Flutter
+FLUTTER_FRAMEWORK_DIR=/Users/creature/Library/flutter/bin/cache/artifacts/engine/ios
+FLUTTER_BUILD_NAME=18.3.35
+FLUTTER_BUILD_NUMBER=18.3.35
+DART_OBFUSCATION=false
+TRACK_WIDGET_CREATION=true
+TREE_SHAKE_ICONS=false
+PACKAGE_CONFIG=.packages
